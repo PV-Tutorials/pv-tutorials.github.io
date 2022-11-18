@@ -4,11 +4,14 @@ a free and open-source python package for simulating photovoltaic power systems.
 These tutorials were created by pvlib contributors and community members as
 introductory material for newcomers to pvlib.  They were originally developed
 to be presented in workshop-style interactive tutorials at conferences, but
-the material itself is still useful on its own.
+the material itself is still useful on its own.  Some of these tutorials are
+newer, shinier versions of previous material, so we recommend you start with the newest one.
 
 If you have created a tutorial and want to have it listed on this page,
 feel free to submit it to this website's `git repository <https://github.com/PVSC-Python-Tutorials/pvsc-python-tutorials.github.io>`_.
 
+If you have an idea or request to present a tutorial at your conferece, university,
+event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
