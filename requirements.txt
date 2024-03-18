@@ -1,3 +1,9 @@
 sphinx==4.5.0
 pydata-sphinx-theme==0.8.1
 sphinx-design==0.3.0
+sphinxcontrib-applehelp==1.0.4  # compatibility with sphinx < 5
+sphinxcontrib-devhelp==1.0.2  # compatibility with sphinx < 5
+sphinxcontrib-htmlhelp==2.0.1  # compatibility with sphinx < 5
+sphinxcontrib-jsmath==1.0.1  # compatibility with sphinx < 5
+sphinxcontrib-qthelp==1.0.3  # compatibility with sphinx < 5
+sphinxcontrib-serializinghtml==1.1.5  # compatibility with sphinx < 5
