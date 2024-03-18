@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'pvlib tutorials'
-copyright = '2022, pvlib community'
-author = 'pvlib community'
+project = 'PV Tutorials'
+copyright = '2022, PV OSS community'
+author = 'PV OSS community'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -33,7 +33,7 @@ html_sidebars = {
 }
 
 html_theme_options = {
-    "github_url": "https://github.com/PVSC-Python-Tutorials/pvsc-python-tutorials.github.io",
+    "github_url": "https://github.com/PV-Tutorials/pv-tutorials.github.io",
     "favicons": [
         {"rel": "icon", "sizes": "16x16", "href": "favicon-16x16.png"},
         {"rel": "icon", "sizes": "32x32", "href": "favicon-32x32.png"},
