@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2024_Analytics_Webinar
+        
+        .. raw:: html
+
+           <img src="_static/solar-data-bounty-logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        A tutorial for PVAnalytics, RdTools, and Solar-Data-Tools for the DOE Open-Source Tools & Open-Access Solar Data webinar series, Part 2: Analytics and Quality Tools.
+
+        +++
+
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Analytics_Webinar>`
+        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_Analytics_Webinar/>` 
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2024_Analytics_Webinar">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_Analytics_Webinar?style=social"/>
+           </a>
+
     .. grid-item-card:: PVPMC_SUPSI_2023
         
         .. raw:: html
