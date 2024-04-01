@@ -31,6 +31,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Modeling_Webinar>`
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_Modeling_Webinar/>` 
+        :bdg-link-primary:`Recording <https://www.youtube.com/watch?v=T4LJd894JsE>`
  
         .. raw:: html
 
