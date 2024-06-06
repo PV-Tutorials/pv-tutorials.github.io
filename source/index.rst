@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: PVSC52-Python-Tutorial
+        
+        .. raw:: html
+
+           <img src="_static/pvsc52-tutorial.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        A tutorial given at PVSC52 in 2024: *PV Systems Modeling with Python, an Interactive Introduction*
+
+        +++
+
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_PVSC>` 
+        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC52/index.html>` 
+
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2024_PVSC52">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_PVSC52?style=social"/>
+           </a>
+
     .. grid-item-card:: 2024_pvlib_PVPMC-Salt-Lake
         
         .. raw:: html
