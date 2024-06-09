@@ -30,7 +30,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         +++
 
         :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_PVSC>` 
-        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC52/index.html>` 
+        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC52>` 
 
         .. raw:: html
 
