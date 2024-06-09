@@ -21,7 +21,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         
         .. raw:: html
 
-           <img src="_static/pvsc52-tutorial.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="_static/pvsc-52-logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
@@ -30,12 +30,12 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         +++
 
         :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_PVSC>` 
-        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC52>` 
+        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC>` 
 
         .. raw:: html
 
-           <a href="https://github.com/PV-Tutorials/2024_PVSC52">
-           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_PVSC52?style=social"/>
+           <a href="https://github.com/PV-Tutorials/2024_PVSC">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_PVSC?style=social"/>
            </a>
 
     .. grid-item-card:: 2024_pvlib_PVPMC-Salt-Lake
