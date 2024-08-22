@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2024_pvlib_PVPMC-Copenhagen
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/PVPMC_2023/855cb6c9340477c505b42703658e200c6c5d6ff4/_static/PVLib_PVPMCLogo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        A pvlib introduction tutorial given at the 2024 EU PVPMC workshop in Copenhagen, Denmark.
+
+        +++
+
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen>`
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen/blob/main/pvlib-introduction.ipynb>` 
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen?style=social"/>
+           </a>
+
     .. grid-item-card:: PVSC52-Python-Tutorial
         
         .. raw:: html
