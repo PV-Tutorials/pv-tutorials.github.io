@@ -29,8 +29,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen>`
         :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen/blob/main/pvlib-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Copenhagen>`
  
         .. raw:: html
 
@@ -50,8 +50,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_PVSC>` 
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_PVSC>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_PVSC>` 
 
         .. raw:: html
 
@@ -71,8 +71,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Salt-Lake>`
         :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2024_pvlib_PVPMC-Salt-Lake/blob/main/google-colab-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pvlib_PVPMC-Salt-Lake>`
  
         .. raw:: html
 
@@ -92,8 +92,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Modeling_Webinar>`
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_Modeling_Webinar/>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Modeling_Webinar>`
         :bdg-link-primary:`Recording <https://www.youtube.com/watch?v=T4LJd894JsE>`
  
         .. raw:: html
@@ -115,8 +115,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Analytics_Webinar>`
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/2024_Analytics_Webinar/>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_Analytics_Webinar>`
         :bdg-link-primary:`Recording <https://www.youtube.com/watch?v=XKbqIlAEwOQ>`
  
         .. raw:: html
@@ -137,8 +137,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_SUPSI_2023>`
         :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/PVPMC_SUPSI_2023/blob/main/google-colab-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_SUPSI_2023>`
  
         .. raw:: html
 
@@ -158,8 +158,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVSC50>` 
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/PVSC50/index.html>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVSC50>` 
 
         .. raw:: html
 
@@ -179,8 +179,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_2023>`
         :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/PVPMC_2023/blob/main/google-colab-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_2023>`
  
         .. raw:: html
 
@@ -200,8 +200,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_2022>` 
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/PVPMC_2022/index.html>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVPMC_2022>` 
  
         .. raw:: html
 
@@ -222,8 +222,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/pyData-2021-Solar-PV-Modeling>` 
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/pyData-2021-Solar-PV-Modeling/index.html>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/pyData-2021-Solar-PV-Modeling>` 
         :bdg-link-primary:`Recording <https://www.youtube.com/watch?v=sweUakFg3I8>`
 
         .. raw:: html
@@ -245,8 +245,8 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVSC48-Python-Tutorial>` 
         :bdg-link-primary:`Website <https://pv-tutorials.github.io/PVSC48-Python-Tutorial/index.html>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/PVSC48-Python-Tutorial>` 
 
         .. raw:: html
 
