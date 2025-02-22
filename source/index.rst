@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2025_pvlib_pvps_task13
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_pvps_task13/refs/heads/main/static/pvlib_pvps_logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        A pvlib tutorial on bifacial single-axix trackers given at the 2025 IEA PVPS T13 Workshop on Bifacial Tracking systems in Rome, Italy.
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2025_pvlib_pvps_task13/blob/main/pvlib-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_pvlib_pvps_task13>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2025_pvlib_pvps_task13">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2025_pvlib_pvps_task13?style=social"/>
+           </a>
+
     .. grid-item-card:: 2024_pvlib_PVPMC-Copenhagen
         
         .. raw:: html
