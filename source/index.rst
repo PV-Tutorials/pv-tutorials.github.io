@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2025_pvlib_pvsc
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_pvsc/refs/heads/main/static/pvlib_pvsc_logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at the 53 PV Specialists Conference (PVSC) in Montreal, Canada on June 8th 2025. 
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2025_pvlib_pvsc/blob/main/pvlib-introduction.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_PVPMC_PV_Repowering>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2025_pvlib_pvsc">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2025_pvlib_pvsc?style=social"/>
+           </a>
+
     .. grid-item-card:: 2025_PVPMC_PV_Repowering
         
         .. raw:: html
