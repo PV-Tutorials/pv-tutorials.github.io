@@ -21,7 +21,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         
         .. raw:: html
 
-           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_PVPMC_PV_Repowering/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_PVPMC_PV_Repowering/refs/heads/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
@@ -63,7 +63,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         
         .. raw:: html
 
-           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_UNM/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_UNM/refs/heads/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
@@ -84,7 +84,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         
         .. raw:: html
 
-           <img src="https://raw.githubusercontent.com/PV-Tutorials/2024_pySMARTS_UNSA/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2024_pySMARTS_UNSA/refs/heads/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
