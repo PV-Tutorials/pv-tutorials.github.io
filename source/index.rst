@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2025_PVPMC_PV_Repowering
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_PVPMC_PV_Repowering/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        An introduction to the concepts and modeling principles for evaluating lifecycle decisions such as repowering on aging PV Systems.
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2025_PVPMC_PV_Repowering/blob/main/Overview.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_PVPMC_PV_Repowering>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2025_PVPMC_PV_Repowering">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2025_PVPMC_PV_Repowering?style=social"/>
+           </a>
+
     .. grid-item-card:: 2025_pvlib_pvps_task13
         
         .. raw:: html
@@ -36,6 +57,48 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
            <a href="https://github.com/PV-Tutorials/2025_pvlib_pvps_task13">
            <img src="https://img.shields.io/github/stars/PV-Tutorials/2025_pvlib_pvps_task13?style=social"/>
+           </a>
+
+    .. grid-item-card:: 2025_pvlib_UNM
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_UNM/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        An introduction for students from UNM ECE 484/584 Photovoltaics course to open-source modeling of PV systems and their production.
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2025_pvlib_UNM/blob/main/Tutorial%200%20-%20Overview.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_pvlib_UNM>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2025_pvlib_UNM">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2025_pvlib_UNM?style=social"/>
+           </a>
+
+    .. grid-item-card:: 2024_pySMARTS_UNSA
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2024_pySMARTS_UNSA/blob/main/images/tutorial_banner.PNG" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        Tutorial de uso de pySMARTS para la Universidad de la clase del Dr. German Salazar en la Universidad Nacional de Salta.
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2024_pySMARTS_UNSA/blob/main/Bienvenida.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2024_pySMARTS_UNSA>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2024_pySMARTS_UNSA">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2024_pySMARTS_UNSA?style=social"/>
            </a>
 
     .. grid-item-card:: 2024_pvlib_PVPMC-Copenhagen
