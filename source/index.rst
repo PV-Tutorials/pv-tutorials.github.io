@@ -30,7 +30,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         +++
 
         :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2025_pvlib_pvsc/blob/main/pvlib-introduction.ipynb>` 
-        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_PVPMC_PV_Repowering>`
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025_pvlib_pvsc>`
  
         .. raw:: html
 
