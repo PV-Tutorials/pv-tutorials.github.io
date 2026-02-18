@@ -17,15 +17,16 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
-    .. grid-item-card:: 2025_pvlib_tec_de_monterrey
+
+    .. grid-item-card:: 2026_pvlib_tec_de_monterrey
         
         .. raw:: html
 
-           <img src="https://raw.githubusercontent.com/PV-Tutorials/PVPMC_2023/855cb6c9340477c505b42703658e200c6c5d6ff4/_static/PVLib_PVPMCLogo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2026_pvlib_tec_de_monterrey/refs/heads/main/static/pvlib_tec_de_monterey_logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
-        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at the Tec de Monterrey in Monterrey, Mexico, on February 18th, 2026. 
+        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at Tec de Monterrey in Monterrey, Mexico on February 18th, 2026.
 
         +++
 
@@ -34,7 +35,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
  
         .. raw:: html
 
-           <a href="https://github.com/PV-Tutorials/2025_pvlib_pvsc">
+           <a href="https://github.com/PV-Tutorials/2026_pvlib_tec_de_monterrey">
            <img src="https://img.shields.io/github/stars/PV-Tutorials/2026_pvlib_tec_de_monterrey?style=social"/>
            </a>
 
