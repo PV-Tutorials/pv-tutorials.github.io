@@ -81,6 +81,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
            <img src="https://img.shields.io/github/stars/PV-Tutorials/2026_pvlib_tec_de_monterrey?style=social"/>
            </a>
 
+    .. grid-item-card:: 2025.2_IT306_Photovoltaic_System
+        
+        .. raw:: html
+
+           <img src="https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System/blob/main/LESF-MV_Unicamp_Repository_Logo.jpeg?raw=true" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        A graduate-level tutorial on PV modeling using pvlib-python, developed for a course in the Graduate Program in Electrical and Computer Engineering at UNICAMP (Campinas, Brazil), offered in the second semester of 2025. The repository is currently in Portuguese; an English version is coming soon.
+
+        +++
+
+        :bdg-link-primary:`Website <https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System/blob/main/Notebook_1_Sizing_in_python_On_Grid.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System">
+           <img src="https://img.shields.io/github/stars/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System?style=social"/>
+           </a>
+
     .. grid-item-card:: 2025_pvlib_pvsc
         
         .. raw:: html
