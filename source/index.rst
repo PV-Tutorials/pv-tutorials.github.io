@@ -17,6 +17,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
 .. grid:: 1 2 3 3
 
+    .. grid-item-card:: 2026_pvlib_eupvsec
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2026_pvlib_eupvsec/refs/heads/main/static/2026_pvlib_eupvsec.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at the 43rd European PV Solar Energy Conference (EU PVSEC) in Rotterdam, Netherlands on September 16th 2026. 
+
+        +++
+
+        :bdg-link-primary:`Website <https://colab.research.google.com/github/PV-Tutorials/2026_pvlib_eupvsec/blob/main/pvlib-introduction-part-1.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2026_pvlib_eupvsec>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2026_pvlib_eupvsec">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2026_pvlib_eupvsec?style=social"/>
+           </a>
+
 
     .. grid-item-card:: 2026_pvlib_uaf
         
