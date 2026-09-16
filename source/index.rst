@@ -47,7 +47,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         ^^^
 
-        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at the 54 PV Specialists Conference (PVSC) in New Orleans, USA on June 7th 2026. 
+        Intro tutorial on using pvlib-python to simulate PV system yield. The tutorial is given at the University of Alaska Fairbanks in July 2026. 
 
         +++
 
